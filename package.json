@@ -1,0 +1,21 @@
+{
+  "name": "too-much-pink",
+  "displayName": "Too Much Pink",
+  "description": "A handmade pink theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Too Much Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Too Much Pink-color-theme.json"
+      }
+    ]
+  }
+}
