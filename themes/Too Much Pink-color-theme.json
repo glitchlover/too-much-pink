@@ -1,16 +1,23 @@
 {
-	"name": "Untitled",
+	"name": "Too Much Pink",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		"enumMember": {
-			"foreground": "#7f6f8a"
+			"foreground": "#f48771",
+			"fontStyle": "italic"
 		},
 		"variable.constant": {
 			"foreground": "#ca77cd"
 		},
 		"variable.defaultLibrary": {
 			"foreground": "#ffb0c6"
+		},
+		"keyword": {
+			"fontStyle": "italic bold"
+		},
+		"method": {
+			"fontStyle": "italic"
 		}
 	},
 	"tokenColors": [
