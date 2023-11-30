@@ -2,5 +2,5 @@
 
 Well a handmade pink theme which is made by love 💖
 
-![Alt text](image.png)
+![Alt text](image-1.png)
 **Enjoy!**
