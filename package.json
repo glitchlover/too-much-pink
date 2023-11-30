@@ -2,10 +2,18 @@
   "name": "too-much-pink",
   "displayName": "Too Much Pink",
   "description": "A handmade pink theme",
-  "version": "0.0.1",
+  "publisher": "glitchlover",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.84.0"
   },
+  "keywords": [
+    "theme",
+    "dark",
+    "pink",
+    "girl",
+    "rose"
+  ],
   "categories": [
     "Themes"
   ],
