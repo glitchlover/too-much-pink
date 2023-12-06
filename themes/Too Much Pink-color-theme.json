@@ -315,21 +315,21 @@
 			"name": "css color constants",
 			"scope": "support.constant.color.w3c-standard-color-name.css",
 			"settings": {
-				"foreground": "#ca77cd"
+				"foreground": "#ffb0c6"
 			}
 		},
 		{
 			"name": "css attribute-name.id",
 			"scope": "entity.other.attribute-name.id.css,meta.selector.css,source.css",
 			"settings": {
-				"foreground": "#ffb0c6"
+				"foreground": "#f48771"
 			}
 		},
 		{
 			"name": "css variable",
-			"scope": "variable.css",
+			"scope": "variable.css,support.type.vendored.property-name.css",
 			"settings": {
-				"foreground": "#ff6573"
+				"foreground": "#7f6f8a"
 			}
 		},
 		{
@@ -850,7 +850,7 @@
 			"name": "Units",
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#ff6573"
+				"foreground": "#7f6f8a"
 			}
 		},
 		{
